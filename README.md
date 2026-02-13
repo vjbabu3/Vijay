@@ -2,7 +2,7 @@ Hey there 👋
 
 I'm Vijay, a Data Science student passionate about turning data into insights.
 
-I work mainly with Python, SQL, and Machine Learning fundamentals.
+I work mainly with Python, SQL, and Data Analysis fundamentals.
 Currently building real-world projects to strengthen my analytical and problem-solving skills.
 
 This is where I share my projects, experiments, and learning journey — everything built step by step as I grow.
